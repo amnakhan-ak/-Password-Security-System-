@@ -20,3 +20,7 @@ Open the file with NI Multisim.
 
 # 4 -Run the Simulation:
 After opening the file, you can run the simulation to test the password entry and validation process.
+
+# - PROJECT OUTPUT:
+<img width="545" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/da18ea47-fe31-47e0-9d6f-edc12bf9493b">
+<img width="548" alt="OUTPUT 2" src="https://github.com/user-attachments/assets/4693f71c-70bb-4cf8-9161-cb45318de4ff">
